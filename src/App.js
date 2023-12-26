@@ -73,7 +73,7 @@ function App(props) {
       <div className="filters btn-group stack-exception">{filterList}</div>
       <h2 id="list-heading">{headingText}</h2>
       <ul
-        role="list"
+        // role="list"
         className="todo-list stack-large stack-exception"
         aria-labelledby="list-heading"
       >
